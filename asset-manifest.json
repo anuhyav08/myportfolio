@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/me/static/css/main.48762e4c.chunk.css",
-    "main.js": "/me/static/js/main.9a06705e.chunk.js",
-    "main.js.map": "/me/static/js/main.9a06705e.chunk.js.map",
-    "runtime~main.js": "/me/static/js/runtime~main.471356dd.js",
-    "runtime~main.js.map": "/me/static/js/runtime~main.471356dd.js.map",
-    "static/css/2.60a6b8e0.chunk.css": "/me/static/css/2.60a6b8e0.chunk.css",
-    "static/js/2.c5ace31e.chunk.js": "/me/static/js/2.c5ace31e.chunk.js",
-    "static/js/2.c5ace31e.chunk.js.map": "/me/static/js/2.c5ace31e.chunk.js.map",
-    "index.html": "/me/index.html",
-    "precache-manifest.d0a3fa668166f4dd1a58df22b1040b7a.js": "/me/precache-manifest.d0a3fa668166f4dd1a58df22b1040b7a.js",
-    "service-worker.js": "/me/service-worker.js",
-    "static/css/2.60a6b8e0.chunk.css.map": "/me/static/css/2.60a6b8e0.chunk.css.map",
-    "static/css/main.48762e4c.chunk.css.map": "/me/static/css/main.48762e4c.chunk.css.map",
-    "static/media/photo.jpg": "/me/static/media/photo.3c221579.jpg"
+    "main.css": "/myportfolio/static/css/main.48762e4c.chunk.css",
+    "main.js": "/myportfolio/static/js/main.38b876e9.chunk.js",
+    "main.js.map": "/myportfolio/static/js/main.38b876e9.chunk.js.map",
+    "runtime~main.js": "/myportfolio/static/js/runtime~main.05b8a21e.js",
+    "runtime~main.js.map": "/myportfolio/static/js/runtime~main.05b8a21e.js.map",
+    "static/css/2.60a6b8e0.chunk.css": "/myportfolio/static/css/2.60a6b8e0.chunk.css",
+    "static/js/2.c5ace31e.chunk.js": "/myportfolio/static/js/2.c5ace31e.chunk.js",
+    "static/js/2.c5ace31e.chunk.js.map": "/myportfolio/static/js/2.c5ace31e.chunk.js.map",
+    "index.html": "/myportfolio/index.html",
+    "precache-manifest.fe9c3d52f46ed53664f75a9c971bf019.js": "/myportfolio/precache-manifest.fe9c3d52f46ed53664f75a9c971bf019.js",
+    "service-worker.js": "/myportfolio/service-worker.js",
+    "static/css/2.60a6b8e0.chunk.css.map": "/myportfolio/static/css/2.60a6b8e0.chunk.css.map",
+    "static/css/main.48762e4c.chunk.css.map": "/myportfolio/static/css/main.48762e4c.chunk.css.map",
+    "static/media/photo.jpg": "/myportfolio/static/media/photo.3c221579.jpg"
   }
 }
