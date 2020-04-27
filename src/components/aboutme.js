@@ -15,7 +15,7 @@ class AboutMe extends Component {
                     <h1 style ={{fontFamily:'merienda'}}>Anuhya Vyasam</h1>
                     <h1 style ={{fontFamily:'merienda'}}>Web Developer</h1>
                     <hr/>
-                    <p>HTML | CSS | Bootstrap | jQuery | JavaScript | ReactJS </p>
+                    <p>HTML | CSS | Bootstrap | JavaScript | Angular | MongoDB | ExpressJS | NodeJS</p>
                     
                     <p className = "aboutmesection">Hello! I'm an experienced Web Developer with three years of experience in providing high quality responsive websites. I'm currently pursuing Masters in Applied Information Technology from Towson University. I am extremely passionate about web development, design and all it's forms. 
                         <br/><br/>Aside from web development, I enjoy spending time with my family, travelling, photography and watching movies. </p>
