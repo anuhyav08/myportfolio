@@ -54,12 +54,12 @@ class Projects extends Component {
           {/* Project 3 */}
           <Cell col={4}>
           <Card className="cards" style={{ minWidth: '350px', marginTop: '100px', backgroundColor: '#FFEEE8' }}>
-            <CardTitle style={{ color: '#fff', height: '300px', color: '#fff', background: 'url(https://assets.pcmag.com/media/images/431558-best-android-weather-apps.jpg?thumb=y&width=810&height=456) center / cover' }} ></CardTitle>
+            <CardTitle style={{ color: '#fff', height: '300px', color: '#fff', background: 'url(https://s1.1zoom.me/b5050/51/Scenery_Coffee_Mountains_Cup_Vapor_Notepad_525749_3840x2400.jpg) center / cover' }} ></CardTitle>
             <CardText style={{ fontFamily: 'merienda', fontSize: '18px', color: 'black' }}>
-              PROJECT #3 <br /><br /> WEATHER APP<br /><br />Project is under construction.<br /><br />
+              PROJECT #3 <br /><br /> COFFEE WEB STORE<br /><br />Designed Using MEAN Stack<br /><br />
             </CardText>
             <CardActions border>
-              <a href="https://github.com/anuhyavyasam" style={{ color: 'black' }} target="_blank" rel="noopener noreferrer" className="fa fa-github-square" id='item1' aria-hidden="true" rel="noopener noreferrer">GITHUB</a>
+              <a href="https://github.com/anuhyavyasam/coffee-store" style={{ color: 'black' }} target="_blank" rel="noopener noreferrer" className="fa fa-github-square" id='item1' aria-hidden="true" rel="noopener noreferrer">GITHUB</a>
 
               {/* <a href="https://codepen.io/anuhyavyasam" style={{ color: 'black' }} target="_blank" rel="noopener noreferrer" className="fa fa-codepen" id='item2' aria-hidden="true" rel="noopener noreferrer">CODEPEN</a> */}
 
