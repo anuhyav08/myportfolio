@@ -7,4 +7,4 @@ This is my first web application implementation using below technology stack
   - CSS3
   - Bootstrap
 
-##### deployed app : https://anuhyavyasam.github.io/myportfolio/
+##### deployed app : https://anuhyav08.github.io/myportfolio/
