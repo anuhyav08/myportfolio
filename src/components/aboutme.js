@@ -17,7 +17,7 @@ class AboutMe extends Component {
                     <hr/>
                     <p>HTML | CSS | Bootstrap | JavaScript | Angular | MongoDB | ExpressJS | NodeJS</p>
                     
-                    <p className = "aboutmesection">Hello! I'm an experienced Web Developer with three years of experience in providing high quality responsive websites. I'm currently pursuing Masters in Applied Information Technology from Towson University. I am extremely passionate about web development, design and all it's forms. 
+                    <p className = "aboutmesection">Hello! I'm an experienced Web Developer with six years of experience in providing high quality responsive websites. I'm currently pursuing Masters in Applied Information Technology from Towson University. I am extremely passionate about web development, design and all it's forms. 
                         <br/><br/>Aside from web development, I enjoy spending time with my family, travelling, photography and watching movies. </p>
                         <div className = "social-links">
                         {/*LinkedIn*/}
@@ -116,7 +116,7 @@ class AboutMe extends Component {
                     <ListItem>
                       <ListItemContent style={{fontSize: '30px', fontFamily: 'merienda', color : 'white'}}>
                         <i className="fa fa-envelope" aria-hidden="true"/>
-                        anuhya.30490@gmail.com
+                        anuhya0802@gmail.com
                       </ListItemContent>
                     </ListItem>
                     
