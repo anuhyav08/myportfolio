@@ -24,7 +24,7 @@ class AboutMe extends Component {
                         <a href = "https://www.linkedin.com/in/anuhyavyasam" style ={{color:'white'}} target= "_blank" className="fa fa-linkedin-square" id = 'item' aria-hidden = "true" rel = "noopener noreferrer"></a>
                         
                          {/*Github*/}
-                         <a href = "https://github.com/anuhyavyasam" style ={{color:'white', marginLeft: '20px'}} target= "_blank" rel = "noopener noreferrer" className="fa fa-github-square" id = 'item' aria-hidden = "true" rel = "noopener noreferrer"></a>
+                         <a href = "https://github.com/anuhyav08" style ={{color:'white', marginLeft: '20px'}} target= "_blank" rel = "noopener noreferrer" className="fa fa-github-square" id = 'item' aria-hidden = "true" rel = "noopener noreferrer"></a>
                         
 
                         {/*codepen*/}
@@ -44,7 +44,7 @@ class AboutMe extends Component {
               PROJECT # 1<br/><br/>COFFEE SHOP WEBSITE<br/><br/>Designed using HTML, CSS, Bootstrap, JQuery
             </CardText>
             <CardActions border>
-            <a href = "https://github.com/anuhyavyasam" style ={{color:'black'}} target= "_blank" rel = "noopener noreferrer" className="fa fa-github-square" id = 'item1' aria-hidden = "true" rel = "noopener noreferrer">GITHUB</a>
+            <a href = "https://github.com/anuhyav08" style ={{color:'black'}} target= "_blank" rel = "noopener noreferrer" className="fa fa-github-square" id = 'item1' aria-hidden = "true" rel = "noopener noreferrer">GITHUB</a>
                         
             {/* <a href = "https://codepen.io/anuhyavyasam" style ={{color:'black'}} target= "_blank" rel = "noopener noreferrer" className="fa fa-codepen" id = 'item1' aria-hidden = "true" rel = "noopener noreferrer">CODEPEN</a> */}
                         
@@ -68,7 +68,7 @@ class AboutMe extends Component {
               
             </CardText>
             <CardActions border>
-            <a href = "https://github.com/anuhyavyasam" style ={{color:'black'}} target= "_blank" rel = "noopener noreferrer" className="fa fa-github-square" id = 'item1' aria-hidden = "true" rel = "noopener noreferrer">GITHUB</a>
+            <a href = "https://github.com/anuhyav08" style ={{color:'black'}} target= "_blank" rel = "noopener noreferrer" className="fa fa-github-square" id = 'item1' aria-hidden = "true" rel = "noopener noreferrer">GITHUB</a>
                         
                         {/* <a href = "https://codepen.io/anuhyavyasam" style ={{color:'black'}} target= "_blank" rel = "noopener noreferrer" className="fa fa-codepen" id = 'item1' aria-hidden = "true" rel = "noopener noreferrer">CODEPEN</a> */}
                            
@@ -88,7 +88,7 @@ class AboutMe extends Component {
              PROJECT #3 <br/><br/> WEATHER APP<br/><br/>Project is under construction.<br/><br/>
             </CardText>
             <CardActions border>
-            <a href = "https://github.com/anuhyavyasam" style ={{color:'black'}} target= "_blank" rel = "noopener noreferrer" className="fa fa-github-square" id = 'item1' aria-hidden = "true" rel = "noopener noreferrer">GITHUB</a>
+            <a href = "https://github.com/anuhyav08" style ={{color:'black'}} target= "_blank" rel = "noopener noreferrer" className="fa fa-github-square" id = 'item1' aria-hidden = "true" rel = "noopener noreferrer">GITHUB</a>
                         
                         {/* <a href = "https://codepen.io/anuhyavyasam" style ={{color:'black'}} target= "_blank" rel = "noopener noreferrer" className="fa fa-codepen" id = 'item1' aria-hidden = "true" rel = "noopener noreferrer">CODEPEN</a> */}
                      
