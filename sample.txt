@@ -1,1 +1,2 @@
-this is a sample text file for fork-repo task.
+this is a sample text file for fork-repo task
+updated revision-1.
